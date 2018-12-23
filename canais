@@ -1,13 +1,13 @@
- <channels>
+<?xml version="1.0" encoding="utf-8"?>
 
- 
+<item>
 
-<channel>
+<title>Globo RJ HD</title>
 
-<name>NOME DA CATEGORIA 1 PARA OUTRA CATEGORIA</name>
+<link>plugin://plugin.video.f4mTester/?url=http://158.69.126.126:25461/live/elenilda/saber2600/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=Globo RJ HD</link>
 
-<thumbnail>URL DO ICONE DA CATEGORIA</thumbnail>
+<thumbnail>http://i.imgur.com/NSHvLCe.png</thumbnail>
 
-<externallink>URL DA CATEGORIA 2</externallink>
+<fanart>http://i.imgur.com/NSHvLCe.png</fanart>
 
-<fanart>URL DA IMAGEM DE FUNDO</
+</item>
