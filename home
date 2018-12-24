@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:-1,Globo AL 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/29014.ts 
+#EXTINF:-1,SBT 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21711.ts 
+#EXTINF:-1,Record 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21721.ts 
+#EXTINF:-1,Band
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21878.ts
+#EXTINF:-1,Globo News 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21796.ts
+
+
+
 #EXTINF:-1,Animal Planet
 http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21885.ts 
 #EXTINF:-1,Discovery Channel
@@ -32,9 +45,40 @@ http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21810.ts
 
 
 
-#EXTINF:-1,Combate 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21858.ts 
-
+#EXTINF:-1,Boomerang 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21869.ts
+#EXTINF:-1,Cartoon Network 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21862.ts
+#EXTINF:-1,Discovery Kids 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21846.ts 
+#EXTINF:-1,Disney Channel 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21836.ts 
+#EXTINF:-1,Disney Channel 2 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/31995.ts
+#EXTINF:-1,Disney Junior 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21652.ts 
+#EXTINF:-1,Disney Junior 2 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/31994.ts
+#EXTINF:-1,Disney XD
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/31993.ts 
+#EXTINF:-1,Gloob 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21794.ts 
+#EXTINF:-1,Gloobinho 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21793.ts 
+#EXTINF:-1,Nat Geo Kids 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21750.ts 
+#EXTINF:-1,Nickelodeon 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21743.ts 
+#EXTINF:-1,Nick Jr 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21745.ts
+#EXTINF:-1,Play Kids 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/29033.ts
+#EXTINF:-1,Play Kids 2 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/32170.ts 
+#EXTINF:-1,Tooncast 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21676.ts 
+#EXTINF:-1,Tv Ra Tim Bum 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21667.ts 
 
 
 
@@ -89,56 +133,6 @@ http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21656.ts
 
 
 
-#EXTINF:-1,Boomerang 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21869.ts
-#EXTINF:-1,Cartoon Network 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21862.ts
-#EXTINF:-1,Discovery Kids 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21846.ts 
-#EXTINF:-1,Disney Channel 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21836.ts 
-#EXTINF:-1,Disney Channel 2 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/31995.ts
-#EXTINF:-1,Disney Junior 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21652.ts 
-#EXTINF:-1,Disney Junior 2 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/31994.ts
-#EXTINF:-1,Disney XD
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/31993.ts 
-#EXTINF:-1,Gloob 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21794.ts 
-#EXTINF:-1,Gloobinho 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21793.ts 
-#EXTINF:-1,Nat Geo Kids 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21750.ts 
-#EXTINF:-1,Nickelodeon 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21743.ts 
-#EXTINF:-1,Nick Jr 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21745.ts
-#EXTINF:-1,Play Kids 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/29033.ts
-#EXTINF:-1,Play Kids 2 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/32170.ts 
-#EXTINF:-1,Tooncast 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21676.ts 
-#EXTINF:-1,Tv Ra Tim Bum 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21667.ts 
-
-
-#EXTINF:-1,Globo AL 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/29014.ts 
-#EXTINF:-1,SBT 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21711.ts 
-#EXTINF:-1,Record 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21721.ts 
-#EXTINF:-1,Band
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21878.ts
-#EXTINF:-1,Record News 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21719.ts 
-#EXTINF:-1,Band News 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21876.ts 
-#EXTINF:-1,Globo News 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21796.ts 
 
 
 
@@ -198,6 +192,10 @@ http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21681.ts
 http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21658.ts
 
 
+
+
+#EXTINF:-1,Combate
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21858.ts 
 #EXTINF:-1,Band Sports 
 http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21874.ts
 #EXTINF:-1,ESPN
