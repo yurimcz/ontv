@@ -152,10 +152,6 @@ http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21692.ts
 
 #EXTINF:-1,HBO 
 http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21782.ts 
-#EXTINF:-, HBO FHDH265
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/37005.ts
-#EXTINF:-,HBOHD265
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/37008.ts
 #EXTINF:-1,HBO 2 
 http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21785.ts 
 #EXTINF:-1,HBO Family 
