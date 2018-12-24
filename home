@@ -30,45 +30,11 @@ http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21810.ts
 
 
 
-#EXTINF:-1,Band Sports 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21874.ts
-#EXTINF:-1,ESPN
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21829.ts
-#EXTINF:-1,ESPN 2 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21824.ts 
-#EXTINF:-1,ESPN Brasil 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21827.ts 
-#EXTINF:-1,Esporte Interativo 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/32148.ts 
-#EXTINF:-1,Fox Sports 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21804.ts 
-#EXTINF:-1,Fox Sports 2 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21802.ts 
-#EXTINF:-1,SPORTV 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21596.ts
-#EXTINF:-1,SPORTV 2 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21703.ts 
-#EXTINF:-1,SPORTV 3 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21701.ts 
-
 
 
 #EXTINF:-1,Combate 
 http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21858.ts 
-#EXTINF:-1,Premiere Clubes 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21725.ts 
-#EXTINF:-1,Premiere 2 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21737.ts 
-#EXTINF:-1,Premiere 3 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21735.ts 
-#EXTINF:-1,Premiere 4 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21733.ts 
-#EXTINF:-1,Premiere 5 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21731.ts 
-#EXTINF:-1,Premiere 6 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21729.ts 
-#EXTINF:-1,Premiere 7 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21727.ts 
+
 
 
 
@@ -174,6 +140,40 @@ http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21876.ts
 #EXTINF:-1,Globo News 
 http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21796.ts 
 
+
+
+#EXTINF:-1,Telecine Action 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21694.ts 
+#EXTINF:-1,Telecine Pipoca 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21688.ts 
+#EXTINF:-1,Telecine Premium 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21686.ts 
+#EXTINF:-1,Telecine Fun 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21690.ts 
+#EXTINF:-1,Telecine Touch 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21684.ts 
+#EXTINF:-1,Telecine Cult 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21692.ts
+
+
+#EXTINF:-1,HBO 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21782.ts 
+#EXTINF:-, HBO FHDH265
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/37005.ts
+#EXTINF:-,HBOHD265
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/37008.ts
+#EXTINF:-1,HBO 2 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21785.ts 
+#EXTINF:-1,HBO Family 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21783.ts 
+#EXTINF:-1,HBO Plus 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21779.ts 
+#EXTINF:-1,HBO Plus*e 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21780.ts
+#EXTINF:-1,HBO Signature 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21777.ts
+
+
 #EXTINF:-1,BIS
 http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21872.ts 
 #EXTINF:-1,Comedy Central 
@@ -198,31 +198,41 @@ http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21681.ts
 http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21658.ts
 
 
-#EXTINF:-1,Telecine Action 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21694.ts 
-#EXTINF:-1,Telecine Pipoca 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21688.ts 
-#EXTINF:-1,Telecine Premium 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21686.ts 
-#EXTINF:-1,Telecine Fun 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21690.ts 
-#EXTINF:-1,Telecine Touch 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21684.ts 
-#EXTINF:-1,Telecine Cult 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21692.ts
+#EXTINF:-1,Band Sports 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21874.ts
+#EXTINF:-1,ESPN
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21829.ts
+#EXTINF:-1,ESPN 2 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21824.ts 
+#EXTINF:-1,ESPN Brasil 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21827.ts 
+#EXTINF:-1,Esporte Interativo 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/32148.ts 
+#EXTINF:-1,Fox Sports
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21804.ts 
+#EXTINF:-1,Fox Sports 2 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21802.ts 
+#EXTINF:-1,SPORTV 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21596.ts
+#EXTINF:-1,SPORTV 2 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21703.ts 
+#EXTINF:-1,SPORTV 3 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21701.ts 
 
 
-#EXTINF:-1,HBO 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21782.ts 
-#EXTINF:-1,HBO 2 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21785.ts 
-#EXTINF:-1,HBO Family 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21783.ts 
-#EXTINF:-1,HBO Plus 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21779.ts 
-#EXTINF:-1,HBO Plus*e 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21780.ts
-#EXTINF:-1,HBO Signature 
-http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21777.ts
 
 
+#EXTINF:-1,Premiere Clubes 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21725.ts 
+#EXTINF:-1,Premiere 2
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21737.ts 
+#EXTINF:-1,Premiere 3 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21735.ts 
+#EXTINF:-1,Premiere 4 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21733.ts 
+#EXTINF:-1,Premiere 5 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21731.ts 
+#EXTINF:-1,Premiere 6 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21729.ts 
+#EXTINF:-1,Premiere 7 
+http://lista.ontvhdbr.co:25461/live/gpm440/1234567/21727.ts 
